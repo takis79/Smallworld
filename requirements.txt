@@ -1,0 +1,3 @@
+-f /usr/share/pip-wheels
+django-bootstrap-toolkit==2.15.0
+django-registration-redux==1.4
